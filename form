@@ -1,0 +1,128 @@
+
+<html>
+<head>
+<title>
+ADMISSION ENQUIRY FORM</TITLE>
+<style>
+fieldset{text-align:center;}
+</style>
+<HEAD>
+<BODY>
+<table align="center" cellpadding="11">
+
+<FORM>
+<FIELDSET>
+<H1>SRI SAKTHI ENGINEERING COLLEGE</H1>
+</fieldset><p ALIGN="RIGHT">date:........................</p>
+<P ALIGN="CENTER"><TEXTAREA  NAME="PHOTO" ID="PHOTO" ROWS="5"COLUMNS="" PLACEHOLDER="      
+    
+    INSERT  PHOTO "></TEXTAREA></P>
+
+<OL>
+<tr><td><LI>NAME OF THE STUDENT:<br>
+(in capital letters)</td>
+<td><INPUT TYPE="TEXT" PLACEHOLDER="ENTER YOUR NAME"></LI>
+</td></tr>
+<tr><td><LI>DATE OF BIRTH:</td>
+<td><INPUT TYPE="DATE"></LI></td>
+</tr>
+<tr><td><LI>FATHER'S NAME:</td>
+<td><INPUT TYPE="TEXT" PLACEHOLDER="ENTER YOUR  FATHER'S NAME"></td>
+</tr>
+<tr><td>OCCUPATION:</td>
+<td><INPUT LIST="OCCUPATION">
+<DATALIST  ID="OCCUPATION">
+<OPTION VALUES="GOVN. SECT.">
+<OPTION VALUES="CENTRAL GOVN.SECT.">
+<OPTION VALUES="BUSINESS">
+<OPTION VALUES="TRANSPORT">
+</DATALIST><BR></td></tr>
+<tr><td>INCOME :</td><td><input type="text" placeholder="(MONTHLY/YEARLY)"></LI></td></tr>
+<tr><td><li>MOTHER'S NAME:</td><td><INPUT TYPE="TEXT" PLACEHOLDER="ENTER YOUR  MOTHER'S NAME"></td></tr>
+<tr><td>OCCUPATION:</td>
+<td><INPUT LIST="OCCUPATION">
+<DATALIST  ID="OCCUPATION">
+<OPTION VALUES="GOVN. SECT.">
+<OPTION VALUES="CENTRAL GOVN.SECT.">
+<OPTION VALUES="BUSINESS">
+<OPTION VALUES="TRANSPORT">
+<OPTION VALUES="HOUSE WIFE">
+</DATALIST><BR></td></tr>
+<tr><td>INCOME :</td>
+<td><input type="text" placeholder="(MONTHLY/YEARLY)">
+</LI></td></tr>
+<tr><td><LI>
+PERMANENT ADDRESS:</td><td><HR><BR>
+<HR>PIN CODE:................................
+<BR></td></tr>
+<tr><td>Contant No. (with STD Code)</td>
+<td><INPUT TYPE="NUMBER"></td></tr><BR>
+<tr><td>Parent’s Mob.:</td>
+<td><INPUT TYPE="NUMBER"></td></tr>
+<tr><td>Student’s Mob:</td>
+<td><INPUT TYPE="NUMBER"></td></tr><BR>
+<tr><td>E-MAIL ADRESS:</td>
+<td><INPUT TYPE="TEXT" PLACEHOLDER="                                                    @gmail.com"></td>
+</tr><tr><td><label for="gen">gender</label>
+</td>
+<td><input type="radio" name="gen">male
+<br><br>
+<input type="radio" name="gen">female
+<br></td>
+</tr>
+
+<TABLE>
+<label for="acad">ACADEMIC QUALIFICATION(CLASS 10<SUP>TH</SUP> ONWARDS)
+</LABEL>
+
+<hr>
+<TR>
+<TH>EXAMINATION PASSED</TH>
+<TH>SCHOOL/COLLEGE</TH>
+<TH>BOARD/UNIVERSITY</TH>
+<TH>YEAR OF PASSING</TH>
+<TH>% OF MARKS</TH>
+<TH>PHY</TH>
+<TH>MAT</TH>
+<TH>CHEM</TH.
+<TH>CS/BIO</TH>
+</TR>
+<TR>
+<TD>10TH</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+</TR>
+<TR>
+<TD>12TH</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+</TR>
+<TR>
+<TD>GRADUATION</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+</TR>
+</TABLE></LI>
+<p align="center">
+<INPUT TYPE="SUBMIT">
+</p></FORM>
+</BODY>
+</HTML>
